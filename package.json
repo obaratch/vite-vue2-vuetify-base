@@ -1,0 +1,25 @@
+{
+  "name": "vue2-trial",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open --host"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vee-validate": "^3.4.15",
+    "vue": "^2.7.14",
+    "vue-router": "^3.6.5",
+    "vuetify": "^2.6.15"
+  },
+  "devDependencies": {
+    "sass": "^1.32.13",
+    "the-new-css-reset": "^1.8.4",
+    "unplugin-vue-components": "^0.24.1",
+    "vite": "^4.1.4",
+    "vite-plugin-vue2": "^2.0.3",
+    "vue-template-compiler": "^2.7.14"
+  }
+}
